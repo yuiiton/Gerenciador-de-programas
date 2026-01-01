@@ -27,7 +27,7 @@ python main.py listar-programas
 Para executar um programa:
 
 ```bash
-python main.py executar nome-do-programa
+python main.py executar
 ```
 
 
